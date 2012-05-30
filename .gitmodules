@@ -1,0 +1,6 @@
+[submodule "powerapi-qt"]
+	path = powerapi-qt
+	url = git@github.com:abourdon/powerapi-qt
+[submodule "powerapi-akka"]
+	path = powerapi-akka
+	url = git@github.com:abourdon/powerapi-akka
