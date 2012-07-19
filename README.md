@@ -1,6 +1,6 @@
 # PowerAPI
 
-PowerAPI is a library offering an API to monitor energy spent at the process-level.
+PowerAPI is a library providing an API to monitor energy spent at the process-level.
 
 Two implementations are available:
 * [powerapi-qt](https://github.com/abourdon/powerapi-qt "powerapi-qt"), using C++/Qt **(now deprecated)**
